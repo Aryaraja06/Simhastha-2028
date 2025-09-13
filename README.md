@@ -20,4 +20,3 @@ Project Title -  Simhastha 2028
 
 <img width="3434" height="1072" alt="image" src="https://github.com/user-attachments/assets/86a857e7-b3e4-4bd9-aea4-dcc536ad794a" />
 
-Prototype : https://smartmobilitysolutions.vercel.app/
